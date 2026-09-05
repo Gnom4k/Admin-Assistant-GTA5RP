@@ -1,7 +1,7 @@
 ## 🛡️ ADMIN ASSISTANT
 Внутриигровой справочник для администраторов и хелперов GTA5RP.com
 
-![Статус](https://img.shields.io/badge/status-active-brightgreen) ![Платформа](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Статус](https://img.shields.io/badge/status-active-brightgreen) ![Платформа](https://img.shields.io/badge/platform-Windows-lightgrey) ![License: MIT License](https://img.shields.io/badge/License-mit-blue.svg)
 
 
 # 📋 О проекте
