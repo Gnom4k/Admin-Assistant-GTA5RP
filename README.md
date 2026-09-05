@@ -150,115 +150,31 @@ ADMIN ASSISTANT — это приложение-справочник, созда
 ```
 
 
-## Feedback
+## 🗺️ Планы развития
 
-I'd love your input! Please:
+Проект активно развивается и планируется расширение на:
 
-- Open issues on [my GitHub repo](https://github.com/me/my-repo/issues)
-- Email me directly at [readmecodegen@gmail.com]
-- Tweet me [@mytwitterhandle]
+· 🔹 Другие серверы GTA5RP.com
+· 🔹 Majestic RP
+· 🔹 RMRP
+· 🔹 Россия Онлайн (Majestic)
 
-I appreciate all feedback!
+💡 Если вы представляете другой проект и заинтересованы в адаптации — свяжитесь с разработчиком [gnom4k](https://discord.com/users/698027263639289868)!
 
 
-## Support
+## 🤝 Контакты
 
 Need help with my project?\
 Contact me via:
 
-- [GitHub Issues](https://github.com/me/my-repo/issues)
-- [My Support Email](mailto:readmecodegen@gmail.com)
-- [Community Discord](https://discord.gg/myserver) I maintain
+- [GitHub Issues](https://github.com/gnom4k)
+- [Discord](https://discord.com/users/698027263639289868)
 
 
+## 📄 Лицензия
 
-## Authors
+Этот проект распространяется под лицензией MIT. Подробнее см. файл LICENSE.
 
-I developed this project with support from:
-
-- [@myusername](https://github.com/myusername) - Lead developer
-- [@collaborator](https://github.com/collaborator) - Feature contributor
-
-
-
-## Appendix
-
-Additional resources I recommend:
-
-- [Related article I found useful]
-- [Technical deep dive documentation]
-- [Inspiration sources]
-
-
-
-## Documentation
-
-I've created detailed documentation here:\
-[Documentation Site](https://my-docs.site)
-
-My documentation covers:
-
-- Core concepts I implemented
-- API usage examples
-- Troubleshooting tips I've discovered
-
-
-
-## Security
-
-If you discover a security vulnerability, please do NOT open a public issue.\
-Email me directly at [security@yourdomain.com] with details.
-
-I follow responsible disclosure and will respond within 48 hours.
-
-
-
-## Performance
-
-Benchmark results on my machine (specs: [CPU/RAM]):
-
-| Operation | Before | After | Improvement |
-| --- | --- | --- | --- |
-| [Task 1] | 200ms | 45ms | 77% faster |
-| [Task 2] | 1.2s | 300ms | 75% faster |
-
-Run benchmarks yourself:
-
-```bash
-npm run benchmark
-```
-
-
-
-## Troubleshooting
-
-**Common issues I've seen and how to fix them:**
-
-#### Error: `Cannot find module 'xyz'`
-
-```bash
-# Fix: reinstall dependencies
-rm -rf node_modules
-npm install
-```
-
-#### Issue: App crashes on startup
-
-Check your `.env` file has all required variables from [Environment Variables](#environment-variables).
-
-#### Issue: Tests failing locally
-
-```bash
-npm run test -- --clearCache
-```
-
-
-
-## GitHub Stats
-
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
 
 
 
