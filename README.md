@@ -75,7 +75,7 @@ ADMIN ASSISTANT — это приложение-справочник, созда
 
 ## 🤝 Контакты
 
-- [GitHub Issues](https://github.com/gnom4k)
+- [GitHub Profile](https://github.com/gnom4k)
 - [Discord](https://discord.com/users/698027263639289868)
 
 
